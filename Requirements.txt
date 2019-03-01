@@ -1,0 +1,9 @@
+
+numpy
+urllib
+tarfile
+tensorflow
+matplotlib
+PIL
+opencv-python
+jupyter 
